@@ -12,8 +12,6 @@ finish-args:
   - --socket=fallback-x11
   - --socket=wayland
   - --socket=pulseaudio
-cleanup:
-  - /share/man
 modules:
   - shared-modules/SDL/sdl12-compat.json
   - shared-modules/SDL/SDL_mixer-1.2.12.json
