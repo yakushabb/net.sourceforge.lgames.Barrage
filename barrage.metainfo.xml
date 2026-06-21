@@ -4,20 +4,26 @@
   <launchable type="desktop-id">net.sourceforge.lgames.Barrage.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
-  <developer id="io.sourceforge.lgames">
+  <developer id="net.sourceforge.lgames">
     <name>Michael Speck</name>
   </developer>
   <name>Barrage</name>
   <summary>A fast paced action game where you shoot down as many targets as possible</summary>
   <description>
-    <p>
-      Barrage is a fast paced shooter game where the objective is to destroy
-      targets like soldiers, tanks and jeeps within 3 minutes.</p>
-    <p>
-      The player controls a gun that shoots small and large grenades at fast
-      moving targets and you need to manage your aim, ammo and re-load times carefully.
-    </p>
+    <p>Barrage is a fast paced shooter game where the objective is to destroy targets like soldiers,
+      tanks and jeeps within 3 minutes.</p>
+    <p>The player controls a gun that shoots small and large grenades at fast moving targets and you need to
+      manage your aim, ammo and re-load times carefully.</p>
   </description>
+  <url type="homepage">https://lgames.sourceforge.io/Barrage/</url>
+  <url type="help">https://sourceforge.net/p/lgames/code/HEAD/tree/trunk/barrage/README</url>
+  <url type="bugtracker">https://sourceforge.net/p/lgames/bugs/</url>
+  <url type="contact">https://lgames.sourceforge.io/contact.php</url>
+  <url type="donation">https://lgames.sourceforge.io/donate.php</url>
+  <url type="vcs-browser">https://sourceforge.net/p/lgames/code/HEAD</url>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+  </content_rating>
   <screenshots>
     <screenshot type="default">
       <image type="source" width="1920" height="1080">https://lgames.sourceforge.io/Barrage/ss0.jpg</image>
@@ -32,13 +38,6 @@
       <caption>In-game screenshot</caption>
     </screenshot>
   </screenshots>
-  <url type="homepage">https://lgames.sourceforge.io/Barrage/</url>
-  <url type="help">https://sourceforge.net/p/lgames/code/HEAD/tree/trunk/barrage/README</url>
-  <url type="bugtracker">https://sourceforge.net/p/lgames/bugs/</url>
-  <url type="contact">https://lgames.sourceforge.io/contact.php</url>
-  <url type="donation">https://lgames.sourceforge.io/donate.php</url>
-  <url type="vcs-browser">https://sourceforge.net/p/lgames/code/HEAD</url>
-  <content_rating type="oars-1.1"/>
   <releases>
     <release version="1.0.7" date="2023-06-05">
       <url>https://sourceforge.net/p/lgames/code/HEAD/tree/trunk/barrage/ChangeLog</url>
